@@ -43,7 +43,7 @@
 25. Задайте имя дашборда, если появится окно ввода имени дашборда
 
 ### Решение 1
-
+![скриншот1](https://github.com/svpuzin/monitoring01-homework/blob/main/img/1.png)
 
 
 ### Задание 2 
@@ -51,4 +51,4 @@
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
 
 ### Решение 2
-
+![скриншот2](https://github.com/svpuzin/monitoring01-homework/blob/main/img/2.png)
